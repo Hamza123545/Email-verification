@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Email_Verification _with_Identity.props" />
+</Project>
