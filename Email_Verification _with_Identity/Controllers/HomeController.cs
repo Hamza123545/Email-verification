@@ -10,7 +10,7 @@ namespace Email_Verification__with_Identity.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
-            _logger = logger;
+            _logger = logge;
         }
 
         public IActionResult Index()
